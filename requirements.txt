@@ -1,7 +1,7 @@
 Jinja2==3.1.6
-langchain==0.3.20
+langchain==0.3.23
 langchain-community==0.3.19
-langchain-core==0.3.43
+langchain-core==0.3.52
 langchain-huggingface==0.1.2
 langchain-openai==0.2.14
 langgraph==0.3.18
