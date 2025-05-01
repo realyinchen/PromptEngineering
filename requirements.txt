@@ -5,3 +5,5 @@ langchain-core==0.3.52
 langchain-huggingface==0.1.2
 langchain-openai==0.2.14
 langgraph==0.3.18
+numpy==2.2.5
+scikit-learn==1.6.1
